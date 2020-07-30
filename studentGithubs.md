@@ -1,4 +1,5 @@
-# Code Words : Student Gihub Repositories 2020
+# Code Words
+## Student Gihub Repositories 2020
 ### Andy Simionato | https://github.com/Simandy/codewords
 ### Taj Edward Joyner Healy | https://github.com/TajHealy
 ### Fergus Jack Arundel | https://github.com/fergarundel/CODE-WORDS
@@ -24,4 +25,3 @@
 ### Jackie Liu | https://github.com/jackieldesign/CODEWORDS
 ### Un ian | https://github.com/unianlai/codeword
 ### Amy Ledger | https://github.com/astlcreations/ohheybro
-### Bridie O'Toole | https://github.com/bridieotoole/codewords
